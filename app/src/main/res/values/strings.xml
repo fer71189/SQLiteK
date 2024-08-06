@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes SQLitek</string>
+    <string name="add_note">Add note</string>
+    <string name="done">done</string>
+    <string name="notes">Notes.</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+</resources>
